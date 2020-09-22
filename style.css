@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/Nave\ de\ tripulantes.png);
+    background-size: cover;
+    text-align: center;
+}
+table{
+    text-align: center;
+    margin: auto;
+}
+h1{
+    font-family: 'Gloria Hallelujah', cursive;
+    color: white;
+}
